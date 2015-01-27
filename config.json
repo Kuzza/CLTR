@@ -1,0 +1,11 @@
+{
+ "english" : ["and", "the", "yes", "if", "then", "ever", "never", "all", "nothing", "for", "do", "of", "to"],
+ "italian" : ["e", "il", "lo", "la", "i", "gli", "se", "da", "fra", "si", "no", "quindi", "tutto", "niente", "sepmpre", "mai", "per", "fare", "di", "a"],
+ "french" : ["et", "aux", "les", "oui", "puis", "partout", "toujours", "jamais", "rien", "pour", "faire", "de"],
+ "italian2" : ["1e", "1il", "l1o", "l1a", "i1", "1gli", "se1", "d1a", "f1ra", "si1", "1no", "q1uindi", "1tutto", "1niente", "s1epmpre", "1mai", "1per", "1fare", "1di", "a1"],
+ "french2" : ["et1", "aux1", "les1", "oui1", "pu1is", "par1tout", "toujo1urs", "jam1ais", "ri1en", "po1ur", "fai1re", "de1"],
+ "italian3" : ["2e", "2il", "lo2", "2la", "2i", "g2li", "2se", "2da", "2fra", "s2i", "2no", "q2uindi", "tut2to", "nie2nte", "sepm2pre", "m2ai", "2per", "f2are", "2di", "a2"],
+ "french3" : ["2et", "2aux", "2les", "ou2i", "p2uis", "pa2rtout", "tou2jours", "j2amais", "r2ien", "2pour", "fair2e", "d2e"],
+ "italian4" : ["e3", "il3", "lo3", "la3", "3i", "gl3i", "se3", "d3a", "3fra", "3si", "n3o", "quin3di", "tutt3o", "nie3nte", "sepmp3re", "m3ai", "pe3r", "f3are", "di3", "a3"],
+ "french4" : ["e4t", "au4x", "les4", "4oui", "puis4", "parto4ut", "toujour4s", "jama4is", "rien4", "pou4r", "faire4", "de4"]
+}

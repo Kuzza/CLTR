@@ -57,7 +57,7 @@ class TextClassifier(object):
             zz =  self.GetUnknownMsg()
         else:
             res = max(self.counter, key=lambda x: self.counter[x])
-        zz =  res
+            zz =  res
             
         
         return zz
@@ -110,7 +110,7 @@ class DocumentHandler(xml.sax.ContentHandler):
         if name == "document":
             author = self.author.replace("\n", "")
             title = self.title.replace("\n", "")
-            language = self.TextClassifier.DetectLanguage(self.text)
+            language = self.TextClassifier.DetectLanguage2(self.text)
             print "Author: %s\nTitle: %s\nLanguage: %s" %(author, title, language)
             print ""
             self.author = ""
